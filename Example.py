@@ -6,6 +6,10 @@ def Sub(a, b):
 c = Sub(4, 5)
 print(c)
 
+def mul(a,b):
+    return a*b
+print(mul(2,3))
+
 
 # i am arun
 
