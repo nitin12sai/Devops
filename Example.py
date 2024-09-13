@@ -1,4 +1,4 @@
-# Add function
+# Add function @contributor : Sathwik Narkedimilli
 def add(a, b):
     return a + b
 
