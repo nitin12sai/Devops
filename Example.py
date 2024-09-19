@@ -21,7 +21,7 @@ def sub(a, b):
 print(sub(3, 2))
 
 
-# Func in temp branch
+# Func in temp branc
 def mul(a, b):
     return a**b
 
