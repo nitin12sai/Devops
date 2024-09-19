@@ -25,5 +25,7 @@ print(sub(3, 2))
 def mul(a, b):
     return a**b
 
-
+def temp(a,b,c):
+    return a*b*c
+print(temp(2,3,4))
 print(mul(3, 6))
