@@ -11,7 +11,7 @@ def mul(a,b):
 print(mul(2,3))
 
 
-# i am arun
+
 
 
 def sub(a, b):
@@ -21,12 +21,12 @@ def sub(a, b):
 print(sub(3, 2))
 
 
-# Func in temp branch
+# Func in temp branc
 def mul(a, b):
     return a**b
 
 def temp(a,b,c):
-    return a*b*c
+    return a*b**c
 print(temp(2,3,4))
 
 print(mul(3, 6))
