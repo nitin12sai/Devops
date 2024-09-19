@@ -11,7 +11,7 @@ def mul(a,b):
 print(mul(2,3))
 
 
-# i am arun
+
 
 
 def sub(a, b):
