@@ -3,7 +3,7 @@ def Sub(a, b):
     return a - b
 
 
-c = Sub(4, 5)
+c = Sub(50, 5)
 print(c)
 
 def mul(a,b):
