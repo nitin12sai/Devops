@@ -36,5 +36,8 @@ def max_of_four(a, b, c, d):
     return max(a, b, c, d)
 print(max_of_four(1, 5, 3, 4))
 
+## Add function @contributor : J Ruthvik 21BCS047
+def isEven(a):
+    return True if a % 2 == 0 else False
 
 
