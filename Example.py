@@ -64,5 +64,6 @@ def isEven(a):
 # Added a cool print statement @ contributor : Anil Kumar (21BEC056)
 def cool():
     print("I Love Devops")
+    print("I love programming")
 
 
