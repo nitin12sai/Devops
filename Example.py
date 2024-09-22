@@ -74,3 +74,8 @@ def print_lexicographical_numbers(n):
 
 n = 20  
 print_lexicographical_numbers(n)
+
+## Add function 
+def min_of_four(a, b, c, d):
+    return min(a, b, c, d)
+print(min_of_four(2, 7, 3, 4))
