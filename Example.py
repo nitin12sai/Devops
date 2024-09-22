@@ -58,9 +58,17 @@ print(max_of_four(1, 5, 3, 4))
 def isEven(a):
     return True if a % 2 == 0 else False
 
+<<<<<<< HEAD
 # Added a cool print statement @ contributor : Anil Kumar (21BEC056)
 def cool():
     print("I Love Devops")
+=======
+## add function @contributor:G Aravind 21BCS039
+def min_of_four(a, b, c, d):
+    return min(a, b, c, d)
+print(min_of_four(1, 5, 3, 4))
+
+>>>>>>> f51f6a0 (added min function)
 
 
 ## Add function @contributor : MANCHALA SRINU 21BCS062
