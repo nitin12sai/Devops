@@ -26,6 +26,9 @@ print(sub(3, 2))
 def xor(a,b):
     return a^b
 
+#Add function @contributor : Praneeth Reddy
+def power(a,b):
+    return a**b
 
 
 # Func in temp branc
