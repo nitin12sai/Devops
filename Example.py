@@ -30,6 +30,10 @@ def xor(a,b):
 def power(a,b):
     return a**b
 
+#divide function @contributor : Patella Nitin Sai
+def power(a,b):
+    return a/b
+
 
 #Add function @contributor :R.Arun kumar
 def max_of_four(a, b, c, d):
