@@ -30,9 +30,26 @@ def xor(a,b):
 def power(a,b):
     return a**b
 
+<<<<<<< HEAD
 #divide function @contributor : Patella Nitin Sai
 def power(a,b):
     return a/b
+=======
+#print function function @contributor : Patella Nitin Sai
+
+def divide(a,b):
+    return a/b
+
+# Func in temp branc
+def mul(a, b):
+    return a**b
+
+def temp(a,b,c):
+    return a*b**c
+print(temp(2,3,4))
+
+print(mul(3, 6))
+>>>>>>> nitin_divide_function
 
 
 #Add function @contributor :R.Arun kumar
