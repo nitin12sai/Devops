@@ -22,6 +22,11 @@ def sub(a, b):
 
 print(sub(3, 2))
 
+#Add function @contributor : Nikhil Gorle
+def xor(a,b):
+    return a^b
+
+
 
 # Func in temp branc
 def mul(a, b):
