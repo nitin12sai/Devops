@@ -11,7 +11,9 @@ def mul(a,b):
 print(mul(2,3))
 
 
-
+#Add function @contributor : Saran Kumar
+def square_n(a):
+    return a*a
 
 
 def sub(a, b):
@@ -30,3 +32,6 @@ def temp(a,b,c):
 print(temp(2,3,4))
 
 print(mul(3, 6))
+
+
+
