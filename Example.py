@@ -31,15 +31,10 @@ def power(a,b):
     return a**b
 
 
-# Func in temp branc
-def mul(a, b):
-    return a**b
-
-def temp(a,b,c):
-    return a*b**c
-print(temp(2,3,4))
-
-print(mul(3, 6))
+#Add function @contributor :R.Arun kumar
+def max_of_four(a, b, c, d):
+    return max(a, b, c, d)
+print(max_of_four(1, 5, 3, 4))
 
 
 
