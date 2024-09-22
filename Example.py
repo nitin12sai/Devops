@@ -61,4 +61,8 @@ print(max_of_four(1, 5, 3, 4))
 def isEven(a):
     return True if a % 2 == 0 else False
 
+# Added a cool print statement @ contributor : Anil Kumar (21BEC056)
+def cool():
+    print("I Love Devops")
+
 
