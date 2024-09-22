@@ -30,35 +30,19 @@ def xor(a,b):
 def power(a,b):
     return a**b
 
-<<<<<<< HEAD
-#divide function @contributor : Patella Nitin Sai
-def power(a,b):
-    return a/b
-=======
-#print function function @contributor : Patella Nitin Sai
-
-def divide(a,b):
-    return a/b
-
-# Func in temp branc
-def mul(a, b):
-    return a**b
-
-def temp(a,b,c):
-    return a*b**c
-print(temp(2,3,4))
-
-print(mul(3, 6))
->>>>>>> nitin_divide_function
-
 
 #Add function @contributor :R.Arun kumar
 def max_of_four(a, b, c, d):
     return max(a, b, c, d)
 print(max_of_four(1, 5, 3, 4))
 
-## Add function @contributor : J Ruthvik 21BCS047
-def isEven(a):
-    return True if a % 2 == 0 else False
 
+#Add function @contributor :D.rishikesh
+def fibonacci(n):
+    sequence = [0, 1]
+    while len(sequence) < n:
+        sequence.append(sequence[-1] + sequence[-2])
+    return sequence
 
+n = int(input("Enter how many Fibonacci numbers you want: "))
+print(fibonacci(n))
