@@ -30,6 +30,10 @@ def xor(a,b):
 def power(a,b):
     return a**b
 
+#print function function @contributor : Patella Nitin Sai
+
+def divide(a,b):
+    return a/b
 
 # Func in temp branc
 def mul(a, b):
