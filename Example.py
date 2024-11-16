@@ -30,8 +30,11 @@ def xor(a,b):
 def power(a,b):
     return a**b
 
-<<<<<<< HEAD
-=======
+def cubed(a):
+    return a*a*a
+
+# <<<<<< HEAD
+#=======
 #divide function @contributor : Patella Nitin Sai
 def power(a,b):
     return a/b
@@ -50,7 +53,7 @@ print(temp(2,3,4))
 
 print(mul(3, 6))
 
->>>>>>> ead2381db1bafec25fb9cae392fb07fe4a8403f4
+#>>>>>>> ead2381db1bafec25fb9cae392fb07fe4a8403f4
 
 #Add function @contributor :R.Arun kumar
 def max_of_four(a, b, c, d):
@@ -58,7 +61,7 @@ def max_of_four(a, b, c, d):
 print(max_of_four(1, 5, 3, 4))
 
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #Add function @contributor :D.rishikesh
 def fibonacci(n):
     sequence = [0, 1]
@@ -68,7 +71,7 @@ def fibonacci(n):
 
 n = int(input("Enter how many Fibonacci numbers you want: "))
 print(fibonacci(n))
-=======
+#=======
 # Added a cool print statement @ contributor : Anil Kumar (21BEC056)
 def cool():
     print("I Love Devops")
@@ -90,4 +93,4 @@ print_lexicographical_numbers(n)
 def min_of_four(a, b, c, d):
     return min(a, b, c, d)
 print(min_of_four(2, 7, 3, 4))
->>>>>>> ead2381db1bafec25fb9cae392fb07fe4a8403f4
+#>>>>>>> ead2381db1bafec25fb9cae392fb07fe4a8403f4
